@@ -4,7 +4,7 @@ A safe, modular, 1-click optimization toolkit for Windows 10 and Windows 11. Des
 
 ---
 
-## ⚡ Quick Start (For You & Friends)
+## ⚡ Quick Start
 
 1. **Extract or open** this `WindowsOptimizer` folder.
 2. **Right-click `RUN_OPTIMIZER.bat`** and click **Run as administrator** (or just double-click it; it will automatically request administrator permissions).
